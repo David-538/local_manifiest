@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<!-- Trees -->
+<project path="device/10or/G" name="Ultron12bot/android_device_samsung_j2corelte.git" remote="github" revision
+="lineage-16.0" />
+<project path=="kernel/10or/G" name="Ultron12bot/android_kernel_samsung_j2corelte.git" remote="github" revision="lineage-16.0" /> 
+
+</manifest>
